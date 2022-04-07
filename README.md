@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website which will show various recipes. It will demonstrate an ability to lay out a page using basic HTML and style it using CSS.
