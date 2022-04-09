@@ -1,0 +1,24 @@
+* {
+    font-family: monospace;
+    text-align: center;
+    background-color: #00aaaa;
+    font-size: 120%;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu {
+    list-style: none;
+}
+
+ol {
+    list-style: none;
+}
+
+h1 {
+    font-size: 200%;
+    color: #05995e;
+}
+
