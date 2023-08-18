@@ -1,0 +1,27 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ramsay {
+    width: auto;
+    height: auto;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color: aqua;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(240, 219, 192);
+}
